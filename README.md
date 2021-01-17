@@ -1,10 +1,8 @@
-# Getting Started with Create React App
-
-<img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
+# Performance React 
 
 <br />
 
-<img alt="performance" src="github/performance.gif" />
+<img alt="performance" src="github/performance.gif" widht="500" height="500" />
 
 # Tópicos 🚀
  - Trabalhar com longas listas de elementos
