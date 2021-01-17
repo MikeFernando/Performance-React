@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="./github/performance.gif alt="performance" />
+<img alt="performance" src="github/performance.gif" />
 
 # Tópicos 🚀
  - Trabalhar com longas listas de elementos
