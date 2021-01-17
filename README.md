@@ -2,6 +2,10 @@
 
 <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
 
+<br />
+
+<img src="./github/performance.gif alt="performance" />
+
 # Tópicos 🚀
  - Trabalhar com longas listas de elementos
  - Reduzir as renderizações com Memoization
