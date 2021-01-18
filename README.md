@@ -1,5 +1,7 @@
 # Performance React 
 
+<h1 align="center"> Performando lista de componentes de 1.000 imagens com ReactJs </h1>
+
 <br />
 
 <img alt="performance" src="github/performance.gif" widht="500" height="500" />
