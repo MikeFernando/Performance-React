@@ -1,6 +1,6 @@
 <h1 align="center"> Performance React </h1>
 
-<h4 align="center"> Performando lista de componentes com mais de 1.000 imagens com ReactJs </h4>
+<h4 align="center"> Performando lista de componentes com mais de 1.000 imagens 😱 </h4>
 
 <br />
 
