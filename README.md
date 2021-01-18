@@ -1,6 +1,6 @@
 # Performance React 
 
-<h1 align="center"> Performando lista de componentes de 1.000 imagens com ReactJs </h1>
+<h3> Performando lista de componentes de 1.000 imagens com ReactJs </h3>
 
 <br />
 
